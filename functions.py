@@ -17,3 +17,6 @@ def division(num1, num2):
         return num1/num2
     else:
         return 'No se puede dividir por 0'
+
+def despedida():
+    return 'Adios, cuidate'
