@@ -26,3 +26,6 @@ def amigos():
 
 def comida():
     return 'La comida me da hambre'
+
+def funcionConejuna():
+    return 'Soy muy tiernin'
