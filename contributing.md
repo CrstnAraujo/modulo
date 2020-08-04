@@ -6,3 +6,5 @@ Agregar dirección de repositorio oficial.
 
 - Cristian Araujo
 - Otro amigo
+
+## Coronavirus
