@@ -8,3 +8,8 @@ Agregar dirección de repositorio oficial.
 - Otro amigo
 
 ## Coronavirus
+
+## Conejito
+
+Los colaboradores conejitos son muy tiernitos porque tienen orejitas, popom y bigotin.
+
