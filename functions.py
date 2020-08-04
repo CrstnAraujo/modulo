@@ -23,3 +23,6 @@ def despedida():
 
 def amigos():
     return 'somos amigos'
+
+def comida():
+    return 'La comida me da hambre'
