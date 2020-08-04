@@ -29,3 +29,9 @@ def comida():
 
 def funcionConejuna():
     return 'Soy muy tiernin'
+
+def bigotito():
+    return 'Conejito tiernin bigotin'
+
+def orejitas():
+    return 'Conejito tiernin con orejitas'
