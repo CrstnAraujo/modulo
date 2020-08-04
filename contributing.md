@@ -12,4 +12,3 @@ Agregar dirección de repositorio oficial.
 ## Conejito
 
 Los colaboradores conejitos son muy tiernitos porque tienen orejitas, popom y bigotin.
-
