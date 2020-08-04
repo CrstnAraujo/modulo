@@ -20,3 +20,6 @@ def division(num1, num2):
 
 def despedida():
     return 'Adios, cuidate'
+
+def amigos():
+    return 'somos amigos'
