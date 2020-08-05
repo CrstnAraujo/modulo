@@ -8,3 +8,5 @@ Agregar dirección de repositorio oficial.
 - Otro amigo
 
 ## Coronavirus
+
+## Técnologia
